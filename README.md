@@ -1,4 +1,4 @@
-# Distributed Wireless Air Quality Sensor Network for monitoring air quality that people are exposed to
+Distributed Wireless Air Quality Sensor Network for monitoring air quality that people are exposed to
 Distributed Wireless Air Quality Sensor Network developed during my Research Internship at Technion, Israel Institute of Technology (May 2017 – August 2017).
 
 - Developed a distributed system to measure an individual’s exposure to air pollution.
