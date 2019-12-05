@@ -5,4 +5,4 @@ Distributed Wireless Air Quality Sensor Network developed during my Research Int
 - Built a Raspberry Pi-based hardware programmed in Python, which is capable of detecting nearby Wi-Fi enabled devices by utilizing Wireshark, and analyzing the collected air quality data.
 - Designed a database schema and utilized MySQL to manage the collected air quality data.
 
-Please refer to the .docx file for detailed information about this project.
+Please refer to the **SeungDoo_ Yang_Report_Sensor_Network.docx** file for detailed information about this project.
